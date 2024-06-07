@@ -1,0 +1,1 @@
+powershell %~dp0monitors-off.ps1
